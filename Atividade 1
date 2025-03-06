@@ -1,0 +1,29 @@
+let num_a = 10;
+let num_b = 5;
+let resultado1 = num_a + num_b;
+
+console.log(`O resultado da soma de ${num_a} e ${num_b} é ${resultado1}`);
+
+let num_c = 10;
+let num_d = 5;
+let resultado2 = num_c - num_d;
+
+console.log(`O resultado da subtração de ${num_c} e ${num_d} é ${resultado2}`);
+
+let num_e = 2;
+let num_f = 3;
+let resultado3 = num_e * num_f;
+
+console.log(`O resultado da multiplicação entre ${num_e} e ${num_f} é ${resultado3}`);
+
+let num_g = 6;
+let num_h = 2;
+let resultado4 = num_g / num_h;
+
+console.log(`O resultado da divisão entre ${num_g} e ${num_h} é ${resultado4}`);
+
+let num_i = 5;
+let num_j = 2;
+let resultado5 = num_i % num_j;
+
+console.log(`O resto da divisão entre ${num_i} e ${num_j} é ${resultado5}`);
